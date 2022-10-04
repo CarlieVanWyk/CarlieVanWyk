@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An events website**
 
-- 💬 I am currently learning **Backend website development**
+- 💬 I am currently learning **React**
 
 - 📫 How to reach me **vwcarlie@gmail.com**
 
