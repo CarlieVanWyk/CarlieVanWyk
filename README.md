@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🔭 I’m currently working on **an Unreal Engine 5 course on Udemy**
+- 🔭 I’m currently working on **an Unreal Engine game and creating assets in Blender for the game**
 
-- 💬 I am currently learning **Unreal Engine 5**
+- 💬 I am currently learning **game design**
 
 - 📫 How to reach me **vwcarlie@gmail.com**
 
