@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **vwcarlie@gmail.com**
 
+- 🔗 Follow me on LinkedIn **www.linkedin.com/in/carlie-van-wyk-b85aa4250**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlievanwyk&label=Profile%20views&color=0e75b6&style=flat" alt="carlievanwyk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlievanwyk" alt="carlievanwyk" /></a> </p>
