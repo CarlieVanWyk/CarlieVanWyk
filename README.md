@@ -7,7 +7,7 @@
 
 - 💬 I am currently learning **game design**
 
-- 📫 How to reach me **vwcarlie@gmail.com**
+- 📫 How to reach me **carlievanwyk@gmail.com**
 
 - 🔗 Follow me on LinkedIn **www.linkedin.com/in/carlie-van-wyk-b85aa4250**
 
